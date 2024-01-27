@@ -1,5 +1,4 @@
-# dataset/augmented_dataset/
-
+dataset/augmented_dataset/
 model_training/dataset
 venv/
 *.ipynb_checkpoints
